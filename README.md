@@ -2,9 +2,9 @@
 - 👀 I’m interested in coding my visions
 - 🌱 I’m currently learning C , Python
 - 📫 How to reach me --> GMail: pratapsinghabhay0208@gmail.com
-                          Instagram: @init.abhay
-                          FaceBook: https://www.facebook.com/share/1AijW5EYxw/
-                          LinkedIn: https://www.linkedin.com/in/abhay-pratap-singh-476624335                     
+  Instagram: https://www.instagram.com/init.abhay?igsh=cXI3OTY1dGZiNjFy
+  FaceBook: https://www.facebook.com/share/1AijW5EYxw/
+  LinkedIn: https://www.linkedin.com/in/abhay-pratap-singh-476624335                     
 - ⚡ Fun fact: The Periodic Table of Elements Was Inspired by Solitaire
 
 <!---
