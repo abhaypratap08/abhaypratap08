@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [EngiGeek](https://github.com/abhaypratap08/EngiGeek)
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **pratapsinghabhay@gmail.com**
 
