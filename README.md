@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 📫 How to reach me **pratapsinghabhay@gmail.com**
+- 📫 How to reach me **pratapsinghabhay0208@gmail.com**
 
 - ⚡ Fun fact **I think I am Normal**
 
