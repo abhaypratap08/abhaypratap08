@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="[![trophy](https://github-profile-trophy.vercel.app/?abhaypratap08=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)"><img src="https://github-profile-trophy.vercel.app/?username=abhaypratap08&theme=tokyonight" alt="abhaypratap08" /></a> </p>
 
-- 🌱 I'm currently learning **Python AI/ML**
+<-_>  I'm currently learning **Python AI/ML**
 
-- 💬 Ask me about **no shyt**
+<-_>  Ask me about **no shyt**
 
-- 📫 How to reach me **pratapsinghabhay0208@gmail.com**
+<-_>  How to reach me **pratapsinghabhay0208@gmail.com**
 
-- ⚡ Fun fact **I think I am Abnormal**
+<-_>  Fun fact **I think I am Abnormal**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
