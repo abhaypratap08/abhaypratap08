@@ -27,8 +27,18 @@
 
 <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhaypratap08&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="abhaypratap08" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhaypratap08&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="abhaypratap08" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhaypratap08&theme=tokyonight&hide_border=true" alt="abhaypratap08" /></p>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhaypratap08&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=abhaypratap08&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhaypratap08&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
