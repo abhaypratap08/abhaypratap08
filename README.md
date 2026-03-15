@@ -9,7 +9,7 @@
 - Reach me at **pratapsinghabhay0208@gmail.com**
 
 <h3 align="left">Connect</h3>
-<p align="left">
+<p align="center">
   <a href="https://instagram.com/capto.82" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="capto.82" height="30" width="40" />
   </a>
@@ -19,15 +19,15 @@
 </p>
 
 <h3 align="left">Languages and Tools</h3>
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=bash,c,cpp,cs,css,docker,dotnet,electron,firebase,gcp,git,html,java,js,linux,mysql,nextjs,postgres,py,pytorch,selenium,spring,tailwind,tensorflow,ts&theme=dark&perline=13" />
 </p>
 
 <br/>
 
-<h3 align="center">Achievements</h3>
+<h3 align="center">Trophies</h3>
 <p align="center">
-  <img src="https://gist.githubusercontent.com/abhaypratap08/2e79ffb3b55738d84b42a342f828b8d0/raw/achievements.svg" alt="Achievements" />
+  <img src="https://github-trophies.vercel.app/?username=abhaypratap08&theme=tokyonight&no-frame=true&margin-w=15" alt="Trophies" />
 </p>
 
 <br/>
