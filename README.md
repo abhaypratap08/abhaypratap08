@@ -24,10 +24,9 @@
 </p>
 
 <br/>
-
 <h3 align="center">Trophies</h3>
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=abhaypratap08&theme=tokyonight&no-frame=true&margin-w=15" alt="Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=abhaypratap08&theme=darkhub&no-frame=true&margin-w=15" alt="Trophies" />
 </p>
 
 <br/>
