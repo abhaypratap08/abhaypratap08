@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=abhaypratap08&label=Profile%20views&color=0B2D72&style=for-the-badge" alt="abhaypratap08" />
 </p>
 
-- Currently learning **Python, AI/ML**
+- Currently learning **JAVA, Spring Ecosystem**
 - Reach me at **pratapsinghabhay0208@gmail.com**
 
 <h3 align="left">Connect</h3>
