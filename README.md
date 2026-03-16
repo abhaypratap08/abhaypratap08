@@ -2,7 +2,7 @@
 <h3 align="center">Student of Computer Science & Mathematics</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=abhaypratap08&label=Profile%20views&color=0d1117&style=flat" alt="abhaypratap08" />
+  <img src="https://komarev.com/ghpvc/?username=abhaypratap08&label=Profile%20views&color=0B2D72&style=for-the-badge" alt="abhaypratap08" />
 </p>
 
 - Currently learning **Python, AI/ML**
