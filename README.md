@@ -1,56 +1,58 @@
-<h1 align="center">Hi, I'm Abhay Pratap Singh</h1>
-<h3 align="center">Student of Computer Science & Mathematics</h3>
+<div align="center">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=abhaypratap08&label=Profile%20views&color=0B2D72&style=for-the-badge" alt="abhaypratap08" />
-</p>
+[<img src="https://github.com/user-attachments/assets/ed15c095-45eb-4bfb-b0ed-2b3c10ee73f2" alt="👋 𝙹𝚊𝚒 𝙷𝚒𝚗𝚍, 𝙼𝚢𝚜𝚎𝚕𝚏 𝙰𝚋𝚑𝚊𝚢𝚙𝚛𝚊𝚝𝚊𝚙" title="👋 𝙹𝚊𝚒 𝙷𝚒𝚗𝚍, 𝙼𝚢𝚜𝚎𝚕𝚏 𝙰𝚋𝚑𝚊𝚢𝚙𝚛𝚊𝚝𝚊𝚙" width="100%"/>](https://github.com/abhaypratap08)
 
-- Currently learning **JAVA, Spring Ecosystem**
-- Reach me at **pratapsinghabhay0208@gmail.com**
+# 𝙹𝚊𝚒 𝙷𝚒𝚗𝚍 🇮🇳 — 𝙸'𝚖 𝙰𝚋𝚑𝚊𝚢 𝙿𝚛𝚊𝚝𝚊𝚙 𝚂𝚒𝚗𝚐𝚑
 
-<h3 align="left">Connect</h3>
-<p align="center">
-  <a href="https://instagram.com/capto.82" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="capto.82" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/abhaypratap0208" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhaypratap0208" height="30" width="40" />
-  </a>
-</p>
+### 𝚂𝚝𝚞𝚍𝚎𝚗𝚝 𝚘𝚏 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 
 
-<h3 align="left">Languages and Tools</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=bash,c,cpp,cs,css,docker,dotnet,electron,firebase,gcp,git,html,java,js,linux,mysql,nextjs,postgres,py,pytorch,selenium,spring,tailwind,tensorflow,ts&theme=dark&perline=13" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=abhaypratap08&label=Profile%20views&color=0B2D72&style=for-the-badge" alt="Profile views"/>
 
-<br/>
-<h3 align="center">Trophies</h3>
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=abhaypratap08&theme=darkhub&no-frame=true&margin-w=15" alt="Trophies" />
-</p>
 
-<br/>
+</div>
 
-<h3 align="center">GitHub Stats</h3>
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhaypratap08&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=abhaypratap08&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com?user=abhaypratap08&theme=github-dark&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+---
 
-<br/>
+## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+- 🎓 𝙱𝚊𝚌𝚑𝚎𝚕𝚘𝚛 𝚘𝚏 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚢 𝚒𝚗 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎
+- 🖥 𝚂𝚝𝚞𝚍𝚎𝚗𝚝 𝚍𝚎𝚟 𝚠𝚒𝚝𝚑 convensionally stupid 𝚒𝚍𝚎𝚊𝚜 𝚊𝚗𝚍 𝚋𝚒𝚐𝚐𝚎𝚛 𝚍𝚛𝚎𝚊𝚖𝚜
+- 🔭 𝙲𝚞𝚛𝚒𝚘𝚜𝚒𝚝𝚢 𝚒𝚜 𝚖𝚢 𝚔𝚎𝚢 — 𝙸 𝚍𝚛𝚒𝚟𝚎 𝚘𝚗 𝚒𝚝
+- 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚘𝚗 [𝙶𝚒𝚝𝙷𝚞𝚋](https://github.com/abhaypratap08)
+- 💻 𝙸 𝚕𝚘𝚟𝚎 𝚌𝚛𝚎𝚊𝚝𝚒𝚗𝚐 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚊𝚗𝚍 𝚜𝚘𝚕𝚟𝚒𝚗𝚐 𝚙𝚛𝚘𝚋𝚕𝚎𝚖𝚜 𝚘𝚗 [𝙻𝚎𝚎𝚝𝙲𝚘𝚍𝚎](https://leetcode.com/AbhayPratap0208)
+- 𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 𝙰𝚛𝚌𝚑 [<img src="https://e7.pngegg.com/pngimages/306/700/png-clipart-arch-linux-computer-icons-linux-distribution-arch-user-repository-linux-angle-triangle.png" height="25em" align="center" alt="Arch Linux" title="Arch Linux"/>](https://archlinux.org/)
 
-<h3 align="center">Contribution Graph</h3>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhaypratap08&theme=github-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
+---
+
+## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
+- 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
+```yaml
+- Deep diving into the Spring Ecosystem
+- Building backend systems and REST APIs
+- Creating projects that solve real problems
+```
+- 🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
+	- 𝙱𝚎𝚌𝚘𝚖𝚎 𝚊𝚗𝚊𝚕𝚢𝚝𝚒𝚌𝚊𝚕𝚕𝚢 𝚊𝚌𝚌𝚞𝚛𝚊𝚝𝚎 𝚒𝚗 𝚎𝚟𝚎𝚛𝚢𝚝𝚑𝚒𝚗𝚐 𝙸 𝚋𝚞𝚒𝚕𝚍
+	- 𝙼𝚊𝚜𝚝𝚎𝚛 𝚋𝚊𝚌𝚔𝚎𝚗𝚍 𝚊𝚛𝚌𝚑𝚒𝚝𝚎𝚌𝚝𝚞𝚛𝚎 𝚊𝚗𝚍 𝚜𝚢𝚜𝚝𝚎𝚖 𝚍𝚎𝚜𝚒𝚐𝚗
+
+---
+
+## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
+![Metrics](https://metrics.lecoq.io/abhaypratap08?template=classic&base.indepth=true&repositories.forks=true&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.indepth=true&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&config.timezone=Asia%2FKolkata)
+
+---
+
+## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
+𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 [𝚙𝚛𝚊𝚝𝚊𝚙𝚜𝚒𝚗𝚐𝚑𝚊𝚋𝚑𝚊𝚢0208@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖](mailto:pratapsinghabhay0208@gmail.com) 𝚘𝚛 𝚏𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28em" align="center" alt="Follow Abhay on LinkedIn" title="Follow Abhay on LinkedIn"/>](https://www.linkedin.com/in/abhay-pratap-singh-476624335/)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28em" align="center" alt="Follow Abhay on Instagram" title="Follow Abhay on Instagram"/>](https://instagram.com/capto.82)
+[<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="28em" align="center" alt="Abhay on LeetCode" title="Abhay on LeetCode"/>](https://leetcode.com/AbhayPratap0208)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28em" align="center" alt="Email Abhay" title="Email Abhay"/>](mailto:pratapsinghabhay0208@gmail.com)
+
+---
