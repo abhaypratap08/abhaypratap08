@@ -36,14 +36,9 @@
 
 ---
 
-## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
-![Metrics](https://metrics.lecoq.io/abhaypratap08?template=classic&base.indepth=true&repositories.forks=true&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.indepth=true&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&config.timezone=Asia%2FKolkata)
-
----
-
-## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+## 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
+![abhaypratap08's Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhaypratap08&theme=merko&hide_border=true)
+![abhaypratap08's Stats](https://github-readme-stats.vercel.app/api?username=abhaypratap08&theme=merko&show_icons=true&hide_border=true&count_private=true)
 
 ---
 
