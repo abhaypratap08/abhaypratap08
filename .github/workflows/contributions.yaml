@@ -5,6 +5,9 @@ on:
     - cron: "0 8 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write   # 🔥 THIS FIXES YOUR ERROR
+
 jobs:
   generate:
     runs-on: ubuntu-latest
