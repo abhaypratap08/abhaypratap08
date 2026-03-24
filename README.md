@@ -2,7 +2,7 @@
 
 [<img src="./assets/git.gif" alt="👋 Jai Hind, Myself Abhaypratap" width="100%"/>](https://github.com/abhaypratap08)
 
-# 𝙹𝚊𝚒 𝙷𝚒𝚗𝚍 🇮🇳 — 𝙸'𝚖 𝙰𝚋𝚑𝚊𝚢 𝙿𝚛𝚊𝚝𝚊𝚙 𝚂𝚒𝚗𝚐𝚑
+# 𝙹𝚊𝚒 𝙷𝚒𝚗𝚍  — 𝙸'𝚖 𝙰𝚋𝚑𝚊𝚢 𝙿𝚛𝚊𝚝𝚊𝚙 𝚂𝚒𝚗𝚐𝚑
 
 ### 𝚂𝚝𝚞𝚍𝚎𝚗𝚝 𝚘𝚏 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 
 
