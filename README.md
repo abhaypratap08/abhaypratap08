@@ -39,7 +39,7 @@
 ## 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 ![abhaypratap08's Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhaypratap08&theme=merko&hide_border=true)
 ![abhaypratap08's Stats](https://github-readme-stats.vercel.app/api?username=abhaypratap08&theme=merko&show_icons=true&hide_border=true&count_private=true)
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-view.svg)
 
 ---
 
