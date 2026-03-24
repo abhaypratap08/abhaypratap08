@@ -2,24 +2,33 @@ name: Auto Contributions
 
 on:
   schedule:
-    - cron: "0 8 * * *" # Adjust the time as per your preference.
+    - cron: "0 8 * * *"
   workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-    name: Generate 3D Profile SVGs
+
     steps:
-      - uses: actions/checkout@v4
-      - uses: ./ 
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate 3D Contribution Graph
+        uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
-      - name: Commit & Push
+      - name: Commit & Push if changes exist
         run: |
-          git config user.name ${{ github.actor }}
-          git config user.email ${{ github.actor }}@users.noreply.github.com
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
           git add .
-          git commit -m "Updated 3D Profile SVGs."
-          git push
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update 3D contribution graph"
+            git push
+          fi
