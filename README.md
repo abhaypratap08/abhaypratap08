@@ -1,6 +1,6 @@
 <div align="center">
 
-[<img src="https://github.com/user-attachments/assets/ed15c095-45eb-4bfb-b0ed-2b3c10ee73f2" alt="👋 𝙹𝚊𝚒 𝙷𝚒𝚗𝚍, 𝙼𝚢𝚜𝚎𝚕𝚏 𝙰𝚋𝚑𝚊𝚢𝚙𝚛𝚊𝚝𝚊𝚙" title="👋 𝙹𝚊𝚒 𝙷𝚒𝚗𝚍, 𝙼𝚢𝚜𝚎𝚕𝚏 𝙰𝚋𝚑𝚊𝚢𝚙𝚛𝚊𝚝𝚊𝚙" width="100%"/>](https://github.com/abhaypratap08)
+[<img src="./assets/git.gif" alt="👋 Jai Hind, Myself Abhaypratap" width="100%"/>](https://github.com/abhaypratap08)
 
 # 𝙹𝚊𝚒 𝙷𝚒𝚗𝚍 🇮🇳 — 𝙸'𝚖 𝙰𝚋𝚑𝚊𝚢 𝙿𝚛𝚊𝚝𝚊𝚙 𝚂𝚒𝚗𝚐𝚑
 
