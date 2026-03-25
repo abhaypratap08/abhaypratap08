@@ -50,4 +50,3 @@
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28em" align="center" alt="Email Abhay" title="Email Abhay"/>](mailto:pratapsinghabhay0208@gmail.com)
 
 ---
-# Zindagi jhand ba, Phirbhi ghamand ba
