@@ -13,7 +13,6 @@
 - 🎓 𝙱𝚊𝚌𝚑𝚎𝚕𝚘𝚛 𝚘𝚏 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚢 𝚒𝚗 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎
 - 🖥 𝚂𝚝𝚞𝚍𝚎𝚗𝚝 𝚍𝚎𝚟 𝚠𝚒𝚝𝚑 convensionally stupid 𝚒𝚍𝚎𝚊𝚜 𝚊𝚗𝚍 𝚋𝚒𝚐𝚐𝚎𝚛 𝚍𝚛𝚎𝚊𝚖𝚜
 - 🔭 𝙲𝚞𝚛𝚒𝚘𝚜𝚒𝚝𝚢 𝚒𝚜 𝚖𝚢 𝚔𝚎𝚢 — 𝙸 𝚍𝚛𝚒𝚟𝚎 𝚘𝚗 𝚒𝚝
-- 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚘𝚗 [𝙶𝚒𝚝𝙷𝚞𝚋](https://github.com/abhaypratap08)
 - 💻 𝙸 𝚕𝚘𝚟𝚎 𝚌𝚛𝚎𝚊𝚝𝚒𝚗𝚐 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚊𝚗𝚍 𝚜𝚘𝚕𝚟𝚒𝚗𝚐 𝚙𝚛𝚘𝚋𝚕𝚎𝚖𝚜 𝚘𝚗 [𝙻𝚎𝚎𝚝𝙲𝚘𝚍𝚎](https://leetcode.com/AbhayPratap0208)
 - 𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 𝙰𝚛𝚌𝚑 [<img src="https://e7.pngegg.com/pngimages/306/700/png-clipart-arch-linux-computer-icons-linux-distribution-arch-user-repository-linux-angle-triangle.png" height="25em" align="center" alt="Arch Linux" title="Arch Linux"/>](https://archlinux.org/)
 
