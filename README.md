@@ -39,8 +39,73 @@
 
 ---
 
-🏆 𝙼𝚢 𝙱𝚊𝚍𝚐𝚎𝚜
-<div align="center"> <table> <tr> <td align="center" width="25%"> <a href="https://leetcode.com/medal/?showImg=0&id=10694475&isLevel=false"> <img src="./badges/Quest_architecture.gif" width="140" alt="LeetCode Architecture Builder Badge" /> </a> <br> <b>𝙰𝚛𝚌𝚑𝚒𝚝𝚎𝚌𝚝𝚞𝚛𝚎 𝙱𝚞𝚒𝚕𝚍𝚎𝚛</b> </td> <td align="center" width="25%"> <img src="./badges/Quest_data.gif" width="140" alt="LeetCode Data Badge" /> <br> <b>𝙳𝚊𝚝𝚊 𝙱𝚊𝚍𝚐𝚎</b> </td> <td align="center" width="25%"> <img src="./badges/100.gif" width="140" alt="100 Days Badge" /> <br> <b>𝟷𝟶𝟶 𝙳𝚊𝚢𝚜 𝙱𝚊𝚍𝚐𝚎</b> </td>  </tr> </table> </div>
+## 🏆 𝙼𝚢 𝙱𝚊𝚍𝚐𝚎𝚜
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="25%">
+<a href="https://leetcode.com/medal/?showImg=0&id=10694475&isLevel=false">
+<img src="./badges/Quest_architecture.gif" width="140" alt="LeetCode Architecture Builder Badge" />
+</a>
+<br>
+<b>𝙰𝚛𝚌𝚑𝚒𝚝𝚎𝚌𝚝𝚞𝚛𝚎 𝙱𝚞𝚒𝚕𝚍𝚎𝚛</b>
+</td>
+<td align="center" width="25%">
+<img src="./badges/Quest_data.gif" width="140" alt="LeetCode Data Badge" />
+<br>
+<b>𝙳𝚊𝚝𝚊 𝙱𝚊𝚍𝚐𝚎</b>
+</td>
+<td align="center" width="25%">
+<img src="./badges/100.gif" width="140" alt="100 Days Badge" />
+<br>
+<b>𝟷𝟶𝟶 𝙳𝚊𝚢𝚜 𝙱𝚊𝚍𝚐𝚎</b>
+</td>
+<td align="center" width="25%">
+<img src="./badges/Dynamic_Programming-.gif" width="140" alt="Dynamic Programming Badge" />
+<br>
+<b>𝙳𝚢𝚗𝚊𝚖𝚒𝚌 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐</b>
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 🎖 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚑𝚒𝚎𝚟𝚎𝚖𝚎𝚗𝚝𝚜
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="./Github-Achievments/pull-shark-default-498c279a747d.png" width="100" alt="Pull Shark" />
+<br>
+<b>𝙿𝚞𝚕𝚕 𝚂𝚑𝚊𝚛𝚔</b>
+</td>
+<td align="center" width="20%">
+<img src="./Github-Achievments/pair-extraordinaire-default-579438a20e01.png" width="100" alt="Pair Extraordinaire" />
+<br>
+<b>𝙿𝚊𝚒𝚛 𝙴𝚡𝚝𝚛𝚊𝚘𝚛𝚍𝚒𝚗𝚊𝚒𝚛𝚎</b>
+</td>
+<td align="center" width="20%">
+<img src="./Github-Achievments/quickdraw-default--light-8f798b35341a.png" width="100" alt="Quickdraw" />
+<br>
+<b>𝚀𝚞𝚒𝚌𝚔𝚍𝚛𝚊𝚠</b>
+</td>
+<td align="center" width="20%">
+<img src="./Github-Achievments/starstruck-default--light-a594e2a027e0.png" width="100" alt="Starstruck" />
+<br>
+<b>𝚂𝚝𝚊𝚛𝚜𝚝𝚛𝚞𝚌𝚔</b>
+</td>
+<td align="center" width="20%">
+<img src="./Github-Achievments/yolo-default-be0bbff04951.png" width="100" alt="YOLO" />
+<br>
+<b>𝚈𝙾𝙻𝙾</b>
+</td>
+</tr>
+</table>
+</div>
+
 ---
 
 ## 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
