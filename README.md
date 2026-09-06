@@ -1,114 +1,214 @@
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Abhay%20Pratap%20Singh&fontSize=55&fontColor=ffffff&fontAlignY=45&animation=fadeIn" />
 
-# 𝙹𝚊𝚒 𝙷𝚒𝚗𝚍 — 𝙸'𝚖 𝙰𝚋𝚑𝚊𝚢 𝙿𝚛𝚊𝚝𝚊𝚙 𝚂𝚒𝚗𝚐𝚑
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Computer+Science+Student;Backend+Development+%7C+Spring+Ecosystem;Building+Projects+%7C+Solving+Problems;Future+Backend+Architect+%26+System+Designer" alt="Typing SVG" />
+</p>
 
-### 𝚂𝚝𝚞𝚍𝚎𝚗𝚝 𝚘𝚏 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎
-
-<img
-  src="https://komarev.com/ghpvc/?username=abhaypratap08&label=Profile%20Views&color=0B2D72&style=for-the-badge"
-  alt="Profile Views"
-/>
-
-</div>
-
----
-
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-
-- 🎓 𝙱𝚊𝚌𝚑𝚎𝚕𝚘𝚛 𝚘𝚏 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚢 𝚒𝚗 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎
-- 🖥 𝚂𝚝𝚞𝚍𝚎𝚗𝚝 𝚍𝚎𝚟 𝚠𝚒𝚝𝚑 𝚌𝚘𝚗𝚟𝚎𝚗𝚝𝚒𝚘𝚗𝚊𝚕𝚕𝚢 𝚜𝚝𝚞𝚙𝚒𝚍 𝚒𝚍𝚎𝚊𝚜 𝚊𝚗𝚍 𝚋𝚒𝚐𝚐𝚎𝚛 𝚍𝚛𝚎𝚊𝚖𝚜
-- 🔭 𝙲𝚞𝚛𝚒𝚘𝚜𝚒𝚝𝚢 𝚒𝚜 𝚖𝚢 𝚔𝚎𝚢 — 𝙸 𝚍𝚛𝚒𝚟𝚎 𝚘𝚗 𝚒𝚝
-- 💻 𝙸 𝚕𝚘𝚟𝚎 𝚌𝚛𝚎𝚊𝚝𝚒𝚗𝚐 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚊𝚗𝚍 𝚜𝚘𝚕𝚟𝚒𝚗𝚐 𝚙𝚛𝚘𝚋𝚕𝚎𝚖𝚜 𝚘𝚗 [𝙻𝚎𝚎𝚝𝙲𝚘𝚍𝚎](https://leetcode.com/AbhayPratap0208)
-- 𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 𝙰𝚛𝚌𝚑 [<img src="https://e7.pngegg.com/pngimages/306/700/png-clipart-arch-linux-computer-icons-linux-distribution-arch-user-repository-linux-angle-triangle.png" height="25em" align="center" alt="Arch Linux" title="Arch Linux"/>](https://archlinux.org/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhay-pratap-singh-476624335/">
+    <img src="https://img.shields.io/badge/LinkedIn-Abhay%20Pratap%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:pratapsinghabhay0208@gmail.com">
+    <img src="https://img.shields.io/badge/Email-pratapsinghabhay0208%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/AbhayPratap0208">
+    <img src="https://img.shields.io/badge/LeetCode-AbhayPratap0208-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=abhaypratap08&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+</p>
 
 ---
 
-## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
+# Who Am I
 
-- 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
+I'm **Abhay Pratap Singh**, a **Bachelor of Technology student in Computer Science**.
 
-```yaml
-- Deep diving into the Spring Ecosystem
-- Building backend systems and REST APIs
-- Creating projects
+A student developer with **conventionally stupid ideas and bigger dreams**.
+
+Curiosity drives me. I enjoy understanding how things work, creating projects, solving problems, and continuously improving my understanding of software engineering.
+
+My current journey revolves around **backend development**, the **Spring ecosystem**, and building a strong foundation in **backend architecture and system design**.
+
+> **Jai Hind**
+
+---
+
+# What I'm Up To
+
+<table>
+  <tr>
+
+```
+<td width="50%" valign="top">
 ```
 
-- 🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
-  - 𝙱𝚎𝚌𝚘𝚖𝚎 𝚊𝚗𝚊𝚕𝚢𝚝𝚒𝚌𝚊𝚕𝚕𝚢 𝚊𝚌𝚌𝚞𝚛𝚊𝚝𝚎 𝚒𝚗 𝚎𝚟𝚎𝚛𝚢𝚝𝚑𝚒𝚗𝚐 𝙸 𝚋𝚞𝚒𝚕𝚍
-  - 𝙼𝚊𝚜𝚝𝚎𝚛 𝚋𝚊𝚌𝚔𝚎𝚗𝚍 𝚊𝚛𝚌𝚑𝚒𝚝𝚎𝚌𝚝𝚞𝚛𝚎 𝚊𝚗𝚍 𝚜𝚢𝚜𝚝𝚎𝚖 𝚍𝚎𝚜𝚒𝚐𝚗
+### Currently Deep Diving Into
+
+```yaml
+- Spring Ecosystem
+- Backend Development
+- REST APIs
+- Building Projects
+- Problem Solving
+```
+
+I am currently focused on understanding backend development beyond simply writing code, learning how APIs, services, databases, and application layers work together.
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-302b63?style=flat-square" />
+</p>
+
+```
+</td>
+
+<td width="50%" valign="top">
+```
+
+### The Long-Term Goal
+
+One day, I hope to:
+
+* Become analytically accurate in everything I build
+* Master backend architecture
+* Understand complex software systems
+* Become strong in system design
+* Build software that is well thought out and reliable
+
+<p>
+  <img src="https://img.shields.io/badge/Backend_Architecture-0f0c29?style=flat-square" />
+  <img src="https://img.shields.io/badge/System_Design-302b63?style=flat-square" />
+  <img src="https://img.shields.io/badge/Problem_Solving-A78BFA?style=flat-square" />
+</p>
+
+```
+</td>
+```
+
+  </tr>
+</table>
 
 ---
 
-## 🏆 𝙼𝚢 𝙱𝚊𝚍𝚐𝚎𝚜
+# My Badges
 
 <div align="center">
+
 <table>
 <tr>
+
 <td align="center" width="25%">
 <a href="https://leetcode.com/medal/?showImg=0&id=10694475&isLevel=false">
 <img src="./badges/Quest_architecture.gif" width="140" alt="LeetCode Architecture Builder Badge" />
 </a>
 <br>
-<b>𝙰𝚛𝚌𝚑𝚒𝚝𝚎𝚌𝚝𝚞𝚛𝚎 𝙱𝚞𝚒𝚕𝚍𝚎𝚛</b>
+<b>Architecture Builder</b>
 </td>
+
 <td align="center" width="25%">
 <img src="./badges/Quest_data.gif" width="140" alt="LeetCode Data Badge" />
 <br>
-<b>𝙳𝚊𝚝𝚊 𝙱𝚊𝚍𝚐𝚎</b>
+<b>Data Badge</b>
 </td>
+
 <td align="center" width="25%">
 <img src="./badges/100.gif" width="140" alt="100 Days Badge" />
 <br>
-<b>𝟷𝟶𝟶 𝙳𝚊𝚢𝚜 𝙱𝚊𝚍𝚐𝚎</b>
+<b>100 Days Badge</b>
 </td>
+
 <td align="center" width="25%">
 <img src="./badges/Dynamic_Programming-.gif" width="140" alt="Dynamic Programming Badge" />
 <br>
-<b>𝙳𝚢𝚗𝚊𝚖𝚒𝚌 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐</b>
+<b>Dynamic Programming</b>
 </td>
+
 </tr>
 </table>
+
 </div>
 
 ---
 
-## 🎖 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚑𝚒𝚎𝚟𝚎𝚖𝚎𝚗𝚝𝚜
+# GitHub Achievements
 
 <div align="center">
+
 <table>
 <tr>
+
 <td align="center" width="20%">
 <img src="./Github-Achievments/pull-shark-default-498c279a747d.png" width="100" alt="Pull Shark" />
 <br>
-<b>𝙿𝚞𝚕𝚕 𝚂𝚑𝚊𝚛𝚔</b>
+<b>Pull Shark</b>
 </td>
+
 <td align="center" width="20%">
 <img src="./Github-Achievments/pair-extraordinaire-default-579438a20e01.png" width="100" alt="Pair Extraordinaire" />
 <br>
-<b>𝙿𝚊𝚒𝚛 𝙴𝚡𝚝𝚛𝚊𝚘𝚛𝚍𝚒𝚗𝚊𝚒𝚛𝚎</b>
+<b>Pair Extraordinaire</b>
 </td>
+
 <td align="center" width="20%">
 <img src="./Github-Achievments/quickdraw-default--light-8f798b35341a.png" width="100" alt="Quickdraw" />
 <br>
-<b>𝚀𝚞𝚒𝚌𝚔𝚍𝚛𝚊𝚠</b>
+<b>Quickdraw</b>
 </td>
+
 <td align="center" width="20%">
 <img src="./Github-Achievments/starstruck-default--light-a594e2a027e0.png" width="100" alt="Starstruck" />
 <br>
-<b>𝚂𝚝𝚊𝚛𝚜𝚝𝚛𝚞𝚌𝚔</b>
+<b>Starstruck</b>
 </td>
+
 <td align="center" width="20%">
 <img src="./Github-Achievments/yolo-default-be0bbff04951.png" width="100" alt="YOLO" />
 <br>
-<b>𝚈𝙾𝙻𝙾</b>
+<b>YOLO</b>
 </td>
+
 </tr>
 </table>
+
 </div>
 
 ---
 
-## 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
+# Tech & Interests
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,git,github&perline=6" />
+
+<br/>
+
+<sub>Backend & Development</sub>
+
+</p>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,arch,vscode,idea&perline=4" />
+
+<br/>
+
+<sub>Development Environment</sub>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/DSA-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/Backend_Development-0f0c29?style=for-the-badge" />
+<img src="https://img.shields.io/badge/System_Design-302b63?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Spring_Ecosystem-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+
+</p>
+
+---
+
+# GitHub Metrics
 
 <div align="center">
 
@@ -122,21 +222,72 @@
 
 ---
 
-## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎
+# Problem Solving
 
-𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 [𝚙𝚛𝚊𝚝𝚊𝚙𝚜𝚒𝚗𝚐𝚑𝚊𝚋𝚑𝚊𝚢0208@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖](mailto:pratapsinghabhay0208@gmail.com) 𝚘𝚛 𝚏𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
+I enjoy solving programming problems and exploring the logic behind different approaches.
+
+My focus is not only on getting the correct answer, but understanding:
+
+* How an algorithm works internally
+* Why a solution works
+* Time and space complexity
+* Better approaches to the same problem
+* Patterns that can be reused across problems
+
+<p align="center">
+
+<a href="https://leetcode.com/AbhayPratap0208">
+<img src="https://img.shields.io/badge/LeetCode-AbhayPratap0208-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+# Development Environment
+
+By the way, I use **Arch Linux**.
+
+<p align="center">
+
+<a href="https://archlinux.org/">
+<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+# Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/abhay-pratap-singh-476624335/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/capto.82">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/AbhayPratap0208">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+<a href="mailto:pratapsinghabhay0208@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
+
+---
 
 <div align="center">
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28em" align="center" alt="Follow Abhay on LinkedIn" title="Follow Abhay on LinkedIn"/>](https://www.linkedin.com/in/abhay-pratap-singh-476624335/)
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28em" align="center" alt="Follow Abhay on Instagram" title="Follow Abhay on Instagram"/>](https://instagram.com/capto.82)
-[<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="28em" align="center" alt="Abhay on LeetCode" title="Abhay on LeetCode"/>](https://leetcode.com/AbhayPratap0208)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28em" align="center" alt="Email Abhay" title="Email Abhay"/>](mailto:pratapsinghabhay0208@gmail.com)
+### Conventionally stupid ideas. Bigger dreams. Always learning.
+
+**Thanks for visiting my profile.**
 
 </div>
 
-<br>
-
-<div align="center">
-𝚃𝚑𝚊𝚗𝚔𝚜 𝚏𝚘𝚛 𝚟𝚒𝚜𝚒𝚝𝚒𝚗𝚐 𝚖𝚢 𝚙𝚛𝚘𝚏𝚒𝚕𝚎! 👋
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
