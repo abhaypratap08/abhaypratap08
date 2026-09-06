@@ -1,8 +1,12 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=51324D&height=200&section=header&text=Abhay%20Pratap%20Singh&fontSize=55&fontColor=ffffff&fontAlignY=45&animation=fadeIn" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=51324D&center=true&vCenter=true&width=800&lines=Computer+Science+Student;Backend+Development+%7C+Spring+Ecosystem;Building+Projects+%7C+Solving+Problems;Future+Backend+Architect+%26+System+Designer" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Computer+Science+Student;Backend+Development+%7C+Spring+Ecosystem;Building+Projects+%7C+Solving+Problems;Future+Backend+Architect+%26+System+Designer"
+    alt="Typing SVG"
+  />
 </p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abhay-pratap-singh-476624335/">
