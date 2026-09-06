@@ -1,32 +1,32 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=51324D&height=200&section=header&text=Abhay%20Pratap%20Singh&fontSize=55&fontColor=ffffff&fontAlignY=45&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=51324D&height=160&section=header&text=Abhay%20Pratap%20Singh&fontSize=52&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn" />
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Computer+Science+Student;Backend+Development+%7C+Spring+Ecosystem;Building+Projects+%7C+Solving+Problems;Future+Backend+Architect+%26+System+Designer"
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=21&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Backend+Development+%7C+Spring+Ecosystem;Building+Projects+%7C+Solving+Problems;Learning+Backend+Architecture+%26+System+Design"
     alt="Typing SVG"
   />
 </p>
 
-
 <p align="center">
   <a href="https://www.linkedin.com/in/abhay-pratap-singh-476624335/">
-    <img src="https://img.shields.io/badge/LinkedIn-Abhay%20Pratap%20Singh-51324D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:pratapsinghabhay0208@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-51324D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/LinkedIn-51324D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/AbhayPratap0208">
-    <img src="https://img.shields.io/badge/LeetCode-AbhayPratap0208-51324D?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-51324D?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
-  <a href="https://instagram.com/capto.82">
-    <img src="https://img.shields.io/badge/Instagram-capto.82-51324D?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="mailto:pratapsinghabhay0208@gmail.com">
+    <img src="https://img.shields.io/badge/Email-51324D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 <p align="center">
+  <a href="https://instagram.com/capto.82">
+    <img src="https://img.shields.io/badge/Instagram-51324D?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=abhaypratap08&label=Profile%20Views&color=51324D&style=for-the-badge" alt="Profile Views" />
 </p>
 
+---
 ---
 
 ## About Me
