@@ -90,40 +90,37 @@ One day, I hope to:
 </table>
 
 ---
-
 # My Badges
 
 <div align="center">
 
-<table>
+<table width="100%">
 <tr>
-
-<td align="center" width="25%">
+<td align="center" width="25%" valign="top">
 <a href="https://leetcode.com/medal/?showImg=0&id=10694475&isLevel=false">
-<img src="./badges/Quest_architecture.gif" width="140" alt="LeetCode Architecture Builder Badge" />
+<img src="./badges/Quest_architecture.gif" alt="Architecture Builder Badge" style="max-width:100%; height:auto;" />
 </a>
-<br>
+<br><br>
 <b>Architecture Builder</b>
 </td>
 
-<td align="center" width="25%">
-<img src="./badges/Quest_data.gif" width="140" alt="LeetCode Data Badge" />
-<br>
+<td align="center" width="25%" valign="top">
+<img src="./badges/Quest_data.gif" alt="Data Badge" style="max-width:100%; height:auto;" />
+<br><br>
 <b>Data Badge</b>
 </td>
 
-<td align="center" width="25%">
-<img src="./badges/100.gif" width="140" alt="100 Days Badge" />
-<br>
+<td align="center" width="25%" valign="top">
+<img src="./badges/100.gif" alt="100 Days Badge" style="max-width:100%; height:auto;" />
+<br><br>
 <b>100 Days Badge</b>
 </td>
 
-<td align="center" width="25%">
-<img src="./badges/Dynamic_Programming-.gif" width="140" alt="Dynamic Programming Badge" />
-<br>
+<td align="center" width="25%" valign="top">
+<img src="./badges/Dynamic_Programming-.gif" alt="Dynamic Programming Badge" style="max-width:100%; height:auto;" />
+<br><br>
 <b>Dynamic Programming</b>
 </td>
-
 </tr>
 </table>
 
@@ -135,36 +132,36 @@ One day, I hope to:
 
 <div align="center">
 
-<table>
+<table width="100%">
 <tr>
 
-<td align="center" width="20%">
-<img src="./Github-Achievments/pull-shark-default-498c279a747d.png" width="100" alt="Pull Shark" />
-<br>
+<td align="center" width="20%" valign="top">
+<img src="./Github-Achievments/pull-shark-default-498c279a747d.png" alt="Pull Shark" style="max-width:100%; height:auto;" />
+<br><br>
 <b>Pull Shark</b>
 </td>
 
-<td align="center" width="20%">
-<img src="./Github-Achievments/pair-extraordinaire-default-579438a20e01.png" width="100" alt="Pair Extraordinaire" />
-<br>
+<td align="center" width="20%" valign="top">
+<img src="./Github-Achievments/pair-extraordinaire-default-579438a20e01.png" alt="Pair Extraordinaire" style="max-width:100%; height:auto;" />
+<br><br>
 <b>Pair Extraordinaire</b>
 </td>
 
-<td align="center" width="20%">
-<img src="./Github-Achievments/quickdraw-default--light-8f798b35341a.png" width="100" alt="Quickdraw" />
-<br>
+<td align="center" width="20%" valign="top">
+<img src="./Github-Achievments/quickdraw-default--light-8f798b35341a.png" alt="Quickdraw" style="max-width:100%; height:auto;" />
+<br><br>
 <b>Quickdraw</b>
 </td>
 
-<td align="center" width="20%">
-<img src="./Github-Achievments/starstruck-default--light-a594e2a027e0.png" width="100" alt="Starstruck" />
-<br>
+<td align="center" width="20%" valign="top">
+<img src="./Github-Achievments/starstruck-default--light-a594e2a027e0.png" alt="Starstruck" style="max-width:100%; height:auto;" />
+<br><br>
 <b>Starstruck</b>
 </td>
 
-<td align="center" width="20%">
-<img src="./Github-Achievments/yolo-default-be0bbff04951.png" width="100" alt="YOLO" />
-<br>
+<td align="center" width="20%" valign="top">
+<img src="./Github-Achievments/yolo-default-be0bbff04951.png" alt="YOLO" style="max-width:100%; height:auto;" />
+<br><br>
 <b>YOLO</b>
 </td>
 
