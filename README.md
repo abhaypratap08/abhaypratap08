@@ -100,116 +100,84 @@ For now, I am focusing on learning the fundamentals, building projects, and impr
 </table>
 
 ---
+# My Badges
 
-## My Badges
+<div align="center">
 
 <table width="100%">
 <tr>
-
 <td align="center" width="25%" valign="top">
 <a href="https://leetcode.com/medal/?showImg=0&id=10694475&isLevel=false">
-<img
-  src="./badges/Quest_architecture.gif"
-  alt="Architecture Builder Badge"
-  width="140"
-/>
+<img src="./badges/Quest_architecture.gif" width="130" height="130" alt="Architecture Builder Badge" />
 </a>
-<br>
+<br><br>
 <b>Architecture Builder</b>
 </td>
 
 <td align="center" width="25%" valign="top">
-<img
-  src="./badges/Quest_data.gif"
-  alt="Data Badge"
-  width="140"
-/>
-<br>
+<img src="./badges/Quest_data.gif" width="130" height="130" alt="Data Badge" />
+<br><br>
 <b>Data Badge</b>
 </td>
 
 <td align="center" width="25%" valign="top">
-<img
-  src="./badges/100.gif"
-  alt="100 Days Badge"
-  width="140"
-/>
-<br>
+<img src="./badges/100.gif" width="130" height="130" alt="100 Days Badge" />
+<br><br>
 <b>100 Days Badge</b>
 </td>
 
 <td align="center" width="25%" valign="top">
-<img
-  src="./badges/Dynamic_Programming-.gif"
-  alt="Dynamic Programming Badge"
-  width="140"
-/>
-<br>
+<img src="./badges/Dynamic_Programming-.gif" width="130" height="130" alt="Dynamic Programming Badge" />
+<br><br>
 <b>Dynamic Programming</b>
 </td>
-
 </tr>
 </table>
 
+</div>
+
 ---
 
-## GitHub Achievements
+# GitHub Achievements
+
+<div align="center">
 
 <table width="100%">
 <tr>
-
 <td align="center" width="20%" valign="top">
-<img
-  src="./Github-Achievments/pull-shark-default-498c279a747d.png"
-  alt="Pull Shark"
-  width="100"
-/>
-<br>
+<img src="./Github-Achievments/pull-shark-default-498c279a747d.png" width="100" height="100" alt="Pull Shark" />
+<br><br>
 <b>Pull Shark</b>
 </td>
 
 <td align="center" width="20%" valign="top">
-<img
-  src="./Github-Achievments/pair-extraordinaire-default-579438a20e01.png"
-  alt="Pair Extraordinaire"
-  width="100"
-/>
-<br>
+<img src="./Github-Achievments/pair-extraordinaire-default-579438a20e01.png" width="100" height="100" alt="Pair Extraordinaire" />
+<br><br>
 <b>Pair Extraordinaire</b>
 </td>
 
 <td align="center" width="20%" valign="top">
-<img
-  src="./Github-Achievments/quickdraw-default--light-8f798b35341a.png"
-  alt="Quickdraw"
-  width="100"
-/>
-<br>
+<img src="./Github-Achievments/quickdraw-default--light-8f798b35341a.png" width="100" height="100" alt="Quickdraw" />
+<br><br>
 <b>Quickdraw</b>
 </td>
 
 <td align="center" width="20%" valign="top">
-<img
-  src="./Github-Achievments/starstruck-default--light-a594e2a027e0.png"
-  alt="Starstruck"
-  width="100"
-/>
-<br>
+<img src="./Github-Achievments/starstruck-default--light-a594e2a027e0.png" width="100" height="100" alt="Starstruck" />
+<br><br>
 <b>Starstruck</b>
 </td>
 
 <td align="center" width="20%" valign="top">
-<img
-  src="./Github-Achievments/yolo-default-be0bbff04951.png"
-  alt="YOLO"
-  width="100"
-/>
-<br>
+<img src="./Github-Achievments/yolo-default-be0bbff04951.png" width="100" height="100" alt="YOLO" />
+<br><br>
 <b>YOLO</b>
 </td>
-
 </tr>
 </table>
+
+</div>
+
 
 ---
 
