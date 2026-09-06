@@ -5,7 +5,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=21&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Backend+Development+%7C+Spring+Ecosystem;Building+Projects+%7C+Solving+Problems;Learning+Backend+Architecture+%26+System+Design"
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=21&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Student+Of+Computer+Science;Backend+Development+%7C+Spring+Ecosystem;Building+Projects+%7C+Solving+Problems;Learning+Backend+Architecture+%26+System+Design"
     alt="Typing SVG"
   />
 </p>
