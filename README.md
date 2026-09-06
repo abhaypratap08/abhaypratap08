@@ -38,7 +38,6 @@ My current focus is on **backend development**, the **Spring ecosystem**, and bu
 > **Jai Hind**
 
 ---
-
 ## What I'm Up To
 
 <table width="100%">
@@ -46,17 +45,17 @@ My current focus is on **backend development**, the **Spring ecosystem**, and bu
 
 <td width="50%" valign="top">
 
-### Currently Exploring
+### Currently Learning
 
-```yaml
-- Deep diving into the Spring Ecosystem
-- Building backend systems
-- Creating REST APIs
-- Creating projects
-- Solving programming problems
-```
+* Exploring the Spring Ecosystem
+* Learning how backend applications are structured
+* Building and experimenting with REST APIs
+* Creating small projects to apply what I learn
+* Practising programming and problem solving
 
-I am focused on understanding backend development beyond simply writing code, including how services, APIs, databases, and application layers work together.
+<br>
+
+I am currently trying to better understand how services, APIs, databases, and different parts of an application work together.
 
 <br>
 
@@ -68,26 +67,31 @@ I am focused on understanding backend development beyond simply writing code, in
 
 <td width="50%" valign="top">
 
-### Long-Term Goals
+### Looking Ahead
 
-One day, I hope to:
+Some areas I would like to learn more about over time:
 
-* Become analytically accurate in everything I build
-* Master backend architecture
-* Understand complex software systems
-* Develop strong system design skills
-* Build reliable and well-designed software
+* Backend development
+* Backend architecture
+* System design
+* Databases and how they work
+* Building larger and more structured applications
 
 <br>
 
-<img src="https://img.shields.io/badge/Backend_Architecture-51324D?style=flat-square" />
+For now, I am focusing on learning the fundamentals, building projects, and gradually improving my understanding of software development.
+
+<br>
+
+<img src="https://img.shields.io/badge/Backend-51324D?style=flat-square" />
 <img src="https://img.shields.io/badge/System_Design-51324D?style=flat-square" />
-<img src="https://img.shields.io/badge/Problem_Solving-51324D?style=flat-square" />
+<img src="https://img.shields.io/badge/Learning-51324D?style=flat-square" />
 
 </td>
 
 </tr>
 </table>
+
 
 ---
 
