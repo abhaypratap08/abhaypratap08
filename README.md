@@ -5,10 +5,12 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/abhaypratap08">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/abhay-pratap-singh-476624335/">LinkedIn</a> ·
-  <a href="https://leetcode.com/AbhayPratap0208">LeetCode</a> ·
-  <a href="mailto:pratapsinghabhay0208@gmail.com">Email</a>
+
+[![GitHub](https://img.shields.io/badge/GitHub-51324D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhaypratap08)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-51324D?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhay-pratap-singh-476624335/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-51324D?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/AbhayPratap0208)
+[![Email](https://img.shields.io/badge/Email-51324D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratapsinghabhay0208@gmail.com)
+
 </p>
 
 ---
@@ -19,19 +21,10 @@ Computer Science student focused on **Java, Spring, backend development, and sys
 
 Building things, breaking things, fixing things.
 
-> Jai Hind.
-
 ### Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,git,github,linux&perline=7"/>
-</p>
-
-### GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhaypratap08&show_icons=true&hide_border=true&theme=dark&bg_color=0D1117"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhaypratap08&layout=compact&hide_border=true&theme=dark&bg_color=0D1117"/>
 </p>
 
 ---
