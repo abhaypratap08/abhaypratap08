@@ -21,10 +21,16 @@ Computer Science student focused on **Java, Spring, backend development, and sys
 
 Building things, breaking things, fixing things.
 
-### Stack
+### Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,git,github,linux&perline=7"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,js,ts,rust,c,html,kotlin,mysql,git,github,linux,bash,qt&perline=15"
+       alt="Java, Spring, Python, JavaScript, TypeScript, Rust, C, HTML, Kotlin, MySQL, Git, GitHub, Linux, Bash, Qt/QML"/>
+</p>
+
+<p align="center">
+  <b>Focus:</b> Java · Spring · Backend · System Design<br/>
+  <b>Also:</b> Python · TypeScript · Rust · C · QML
 </p>
 
 ---
