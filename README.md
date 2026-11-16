@@ -8,7 +8,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-51324D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhaypratap08)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-51324D?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhay-pratap-singh-476624335/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-51324D?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/AbhayPratap0208)
+[![LeetCode](https://img.shields.io/badge/LeetCode-51324D?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/abhaypratap08)
 [![Email](https://img.shields.io/badge/Email-51324D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratapsinghabhay0208@gmail.com)
 
 </p>
